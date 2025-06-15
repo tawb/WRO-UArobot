@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+
+# PlatformIO build output
+.pio/
+
+# Logs & calibration
+data/logs/
+data/calibration/
+
+# Large binaries (Git-LFS)
+*.step
+*.f3d
+*.mp4
